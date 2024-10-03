@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "107595354388",
+    "project_id": "my-chat-snepchat",
+    "storage_bucket": "my-chat-snepchat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107595354388:android:a728098ec5e738a4277201",
+        "android_client_info": {
+          "package_name": "com.example.my_chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAllDAaXeEYP2WGnffDIvIn1tbITeGNCOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
